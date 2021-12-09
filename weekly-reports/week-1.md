@@ -6,15 +6,17 @@ The first week mostly involved assessing the scope of work for the internship as
 
 
 ### Rough timeline
-Weeks 1+2: Read documentation,  understand project, focus on `show` deriver.
-Week 3:  Have `show` deriver rewritten to new repo and functioning.
-Friday 12-24: off.
-Week 4:  Test writing and clean-up.
-Friday 12-31: off.
-(Done with `show` by end of December?)
-Weeks 5, 6 and 7: Reimplement a second deriver.
-Weeks 8, 9 and 10: Reimplement a third deriver.
-Weeks 11, 12 and 13: Implement fourth deriver if there is time, document project, buffer time.
+- Weeks 1+2: Read documentation,  understand project, focus on `show` deriver.
+- Week 3:  Have `show` deriver rewritten to new repo and functioning.
+    - Friday 12-24: off.
+- Week 4:  Test writing and clean-up.
+    - Friday 12-31: off.
+    - Done with `show` by end of December?
+- Weeks 5, 6 and 7: Reimplement a second deriver.
+    - Draft and share a blog post summarizing work up to this halfway point.
+- Weeks 8, 9 and 10: Reimplement a third deriver.
+- Weeks 11, 12 and 13: Implement fourth deriver if there is time, document project, buffer time.
+    - Draft and share a blog post summarizing work of whole internship.
 
 ### List of repos relevant to PPX derivers
 | Link to repo  | What is it?  | How will it be used in this project?  |
