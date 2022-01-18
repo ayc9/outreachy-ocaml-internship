@@ -34,7 +34,7 @@ As usual, the weekly call with mentors served to guide and support the progress 
 
 ### Pairing 
 
-Find the notes for the Monday session with Shon and the Wednesday session with Sonja.
+Find the notes for the [Monday session with Shon](../pair-programming/2022-01-10.md) and the Wednesday session with Sonja.
 
 ### Missing features of `make`
 
